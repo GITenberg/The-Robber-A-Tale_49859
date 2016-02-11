@@ -1,0 +1,24 @@
+_repo: The-Robber-A-Tale_49859
+creator:
+  author:
+    agent_name: James, G. P. R. (George Payne Rainsford)
+    alias: James, George Payne Rainsford
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '1301'
+    url: http://www.gutenberg.org/2009/agents/1301
+    wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+description: ''
+gutenberg_issued: '2015-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 17th century -- Fiction'
+- !lcc 'PR'
+title: The Robber, A Tale.
+url: http://www.gutenberg.org/ebooks/49859
