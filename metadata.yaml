@@ -1,4 +1,8 @@
 _repo: The-Robber-A-Tale_49859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49859#The-Robber-A-Tale
 gutenberg_issued: '2015-09-02'
 gutenberg_type: Text
 identifiers:
